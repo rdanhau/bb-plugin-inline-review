@@ -1,7 +1,7 @@
 {
   "id": "inline-review",
   "displayName": "Inline Review",
-  "description": "Turn passages from an assistant response into one clear revision request. Mark comments and removals while you read, keep them highlighted across navigation, add overall feedback, and send the full review to the same thread. Drafts stay on your BB server; no external service or account is required. Requires BB 0.43.x.",
+  "description": "Turn passages from an assistant response into one clear revision request. Mark comments and removals while you read, keep them highlighted across navigation, add overall feedback, and send the full review to the same thread. Drafts stay on your BB server; no external service or account is required. Requires BB 0.43.1 or later.",
   "icon": "MessageSquare",
   "screenshots": [
     "./screenshots/inline-review/select-feedback.png",
